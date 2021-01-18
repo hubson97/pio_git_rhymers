@@ -1,1 +1,7 @@
-/target/
+.idea
+target
+powp-rhymers.iml
+.classpath
+.project
+.settings/
+bin
